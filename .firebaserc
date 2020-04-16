@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "taskmanager-e4aa4": {
+      "hosting": {
+        "TaskManager": [
+          "taskmanager-e4aa4"
+        ]
+      }
+    }
+  }
+}
